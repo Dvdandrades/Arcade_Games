@@ -1,1 +1,3 @@
-# Guess_Number_Game
+# Arcade
+- Guess Number Game
+- Rock Paper Scissors
